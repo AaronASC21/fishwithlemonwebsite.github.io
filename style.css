@@ -1,16 +1,33 @@
 body{
-    background-color: rgb(6, 6, 85);
+    background-color: rgb(39, 39, 180);
 }
 
+#image{
+    justify-content: center;
+}
+
+#intro{
+    color: papayawhip;
+}
+
+li{
+    color:papayawhip;
+}
+footer{
+    color:papayawhip;
+}
+a{
+    color: darkcyan;
+}
 
 p{
     
-    color: orange;
+    color: rgb(218, 231, 38);
 }
-h1, h2, h3{
+h1, h2, h3,h4{
     font-family:'Franklin Gothic Medium';
     text-align: center;
-    color: orange;
+    color: rgb(218, 231, 38);
     
 }
 
